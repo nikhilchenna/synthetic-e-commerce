@@ -1,0 +1,6 @@
+product_id,sku,name,category,price
+1,SKU-0001,Wireless Mouse,Electronics,25.00
+2,SKU-0002,Coffee Mug,Home,12.50
+3,SKU-0003,Notebook,Stationery,5.00
+4,SKU-0004,Water Bottle,Sports,15.00
+5,SKU-0005,USB-C Cable,Electronics,8.00
