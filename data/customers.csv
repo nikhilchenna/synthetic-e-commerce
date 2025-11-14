@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,signup_date,country
+1,First1,Last1,user1@example.com,2025-10-14,GB
+2,First2,Last2,user2@example.com,2025-10-13,FR
+3,First3,Last3,user3@example.com,2025-10-12,US
+4,First4,Last4,user4@example.com,2025-10-11,CA
+5,First5,Last5,user5@example.com,2025-10-10,US
+6,First6,Last6,user6@example.com,2025-10-09,DE
+7,First7,Last7,user7@example.com,2025-10-08,DE
+8,First8,Last8,user8@example.com,2025-10-07,DE
+9,First9,Last9,user9@example.com,2025-10-06,DE
+10,First10,Last10,user10@example.com,2025-10-05,GB

@@ -1,0 +1,11 @@
+product_id,sku,name,category,price
+1,SKU-0001,Product 1,Electronics,23.3
+2,SKU-0002,Product 2,Sports,179.2
+3,SKU-0003,Product 3,Electronics,89.39
+4,SKU-0004,Product 4,Books,140.69
+5,SKU-0005,Product 5,Home,145.7
+6,SKU-0006,Product 6,Electronics,120.27
+7,SKU-0007,Product 7,Electronics,180.78
+8,SKU-0008,Product 8,Beauty,9.35
+9,SKU-0009,Product 9,Sports,6.79
+10,SKU-0010,Product 10,Sports,138.86
